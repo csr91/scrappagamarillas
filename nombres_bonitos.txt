@@ -1,0 +1,674 @@
+streetName
+Calle 140
+9 De Julio
+J Giribone
+C Tejedor
+Simbrón
+Zuviría
+Italia
+Río Iguazú
+L M Drago
+M Cané E/el Lucero Y El Ceibo
+San Lorenzo
+35
+Av 2
+B Pérez Galdós
+Dr N Repetto 695
+Perú
+Mendoza
+Estocolmo
+Francia
+Primera Junta
+Avenida 3
+A Del Valle 5155
+Lamadrid
+De Los Reseros
+Cno Centenario
+121
+43 57
+Yapeyú
+Belgrano
+Urquiza
+Castro Cambón
+Monroe
+CALLE 138 1168
+R L Falcón
+B De Miguel
+Belgrano
+48
+L López
+Entre Ríos
+131
+422
+H Yrigoyen
+47
+Belgrano
+Rivadavia
+los almendros los almendros s/n esquina pringles
+Alte Brown
+Av A Rolón
+Fray J Sarmiento
+España
+C Casares
+Solís
+Dorrego
+H Yrigoyen
+42
+Lamadrid
+12 1234 e/57 y 58
+Garay
+Avenida 13
+San Martín
+Almafuerte 1402
+Asborno
+116
+59
+M Moreno
+Rivarola
+B Sta Guadalup 0 lote 163
+G E Hudson
+Alvarado
+D Magdalena
+Diagonal 75
+N Avellaneda
+499
+Basavilbaso
+No informa S/N
+Moreno
+60
+Av Colón
+48
+Bourdieu
+F De Olazábal
+7
+Emilio Lamarca
+Ing Devillard 983
+Falucho
+Martín y Omar
+Dr M Paz
+Ucrania
+Viamonte
+Cañada De Ruiz
+Calle 370
+116
+73
+F De Alfaro
+San Juan
+13 Bis
+F Onsari
+Bizet
+J C Chiozza
+Jason 1371
+Alvarado
+Av Santa Fe
+Esqui
+Formosa
+De Las Artes
+Rivadavia
+413
+J MARIANI 6129
+Nación
+No informa SN
+Av Arq J Bunge
+55
+Del Viso
+PANAMERICANA KM50 PILAR
+Caronti
+San Lorenzo
+Calle 24
+Av Vértiz
+Col 12 De Oct S/N
+Azara
+Pasionar  e/ C Manuel  y Hor-Bosque
+F Acosta
+Godoy Cruz
+33 Orientales
+Mendoza
+
+J D Perón 217
+Castelli
+Pereyra Rosas
+La Rioja
+Av Vedia
+Chiclana
+Castelli
+L N Alem
+Martín y Omar
+Alte Brown
+Calle 30
+Las Heras
+Lima
+Av D French
+Av Constitución
+Mñr A Calcagno
+Av Constitución
+Deán Funes
+Alte Brown
+Avenida 16
+Avenida 8
+Alameda 212
+Paseo 130
+Paseo 107
+Avenida 7
+Alte Brown
+Salta
+Alvarado
+Av Vaccarezza
+Gallardo
+B Cerretti
+Loria
+L N Alem
+E De San Martín
+Italia
+San Martín
+Güemes
+47
+Viedma
+Av Alem
+9
+J M Estrada
+CASTRO BARROS 446
+Emilio Lamarco 2175 Buenos Aires CP 1714
+Belgrano
+Salta
+H Yrigoyen
+Int E Grant
+LÃBANO
+LÃBANO
+Calle 157
+Concordia
+Gelly y Obes
+Av Alem
+Lagrave
+46
+25 DE MAYO
+Pico
+Av Dip M R Pedrera
+San Lorenzo
+Entre Ríos
+57
+9 De Julio
+Alsina
+63
+R Escalada
+L López
+Diag Brown
+Rvdo Pdre Ansaldo
+La Pampa
+Conesa
+Pringles
+A Alsina
+Av Pellegrini
+Almafuerte
+General Rodríguez
+Gral J A Roca
+Av P Luro
+Falucho
+Bolívar
+Av España
+Apolo
+M Fernández
+Sarmiento
+Martin Y Omar
+Av Rivadavia
+Paseo 117
+Calle 15 A
+Guayaquil
+Sub Sta Fe E
+Bouchard
+Formosa
+E OBLIGADO
+CHIMONDEGUI
+LA RIOJA
+Olavarría
+Calle 150
+Av E Shaw
+Chaco
+La Rioja
+Maipú
+Borchex
+E Perón 930
+De La Trucha
+Ministro Brin
+18
+49
+20 De Septiembre
+Gúlliver
+Av Langostinos
+Av La Plata
+Av Pte Perón
+Av Vaccarezza
+Córdoba
+Cardoner
+Av C Tejedor
+Peluffo
+El colibri 530
+Nautilus
+Av E Shaw
+Avenida 5
+Calle 33
+F L Bernárdez
+Salta
+11
+D F Sarmiento
+Av B Mitre
+Jason
+Jason
+9 De Julio
+Chaco
+Calle 34
+25 De Mayo
+Dr D N Basavilbaso
+Héroes Del Sur
+Arenales
+Carlos Gardel 785
+Rodríguez Peña
+Av Bs Aires
+Av 3 Carabelas
+Av Constitución
+De L Gaviotas
+De L Calandria
+Humberto Primo
+Gúlliver
+Gaviota
+San Lorenzo
+Del Zorzal
+Cnel Rosales
+Boyero
+Tucuman
+ALIAS
+Cangallo
+CALLE 8
+F L Wright
+Calle 320
+Gobernador Udaondo
+Constitución
+La Rioja
+61
+Catamarca
+J D De Solís
+Lamadrid
+Biscayart
+12
+H Yrigoyen
+33
+Lavalle
+Ruta 58 749
+Av Primera Junta
+San Martín
+MATHEU
+J Mariani
+J V González
+Thames
+Pueyrredón
+Santa Fe
+Olavarría
+Av Lib San Martín
+A M Cervantes
+AV FC PCIAL 5447
+Av J M D Rosas
+Merced
+B Mitre
+Calle 32
+BÂ°T Del Lago 2
+Av Soarez
+Paseo 113
+Amenedo
+Calle 868
+T Taylor
+Gral Roca
+C Brochero
+B Mitre
+San Juan
+9
+Moine
+Bolívar
+T Bronzini
+San José
+Catamarca
+Av E Shaw
+DE LA TRUCHA
+Cul De Sac Selene 433
+Jason
+S Del Estero
+Strobell
+J Hernández
+Castelli
+De L Escualos 1539
+MANUEL GONNET S/N
+Calle 125
+Submarino  Sta Fe E 1521
+Avenida 3
+61
+M De Oca
+Jason
+Moreno
+19 De Mayo
+Libertador S
+Jason
+M Ocampo
+C Pellegrini
+Laprida
+Guaraní
+Arenales
+Italia
+E Carriego
+Dr C Argerich
+E Zeballos
+Lavalle
+9 DE JULIO
+Don Bosco
+BRASIL 1060 PA TP
+Pintos
+26 De Julio 1890
+J I RUCCI
+Lagrave
+Entre Ríos
+Almafuerte
+G Chaves
+25 De Mayo
+Av 25 De Mayo
+Av San Martín
+P J Landa
+E Adrogué
+Avenida 1
+Sarmiento
+Piedras
+466
+Avenida 5
+V Vergara
+Alte Brown
+Mstro D'Elía 1158 1 B
+Pringles
+2 De Julio
+C Pellegrini
+Parque Austral S/N 02 Edif. M3
+Obligado
+Guido
+Av P Luro
+Córdoba
+A Alsina
+Alte Brown
+93
+Lavalle
+Entre Ríos
+Juncal
+Av 59
+Castro Barros
+Av Constit
+Av Libertad
+Alsina
+Av R Fuertes
+Méjico
+Lebensohn
+Av Benavidez
+Av Lopez 250
+España
+Brandsen
+14
+M Acosta
+Pje Galileo
+Belgrano
+Av 2
+Campana
+San Martín
+Col 12 De Oct
+D Olavarrieta
+Donovan
+Portugal
+Calle 29
+Laprida
+L Piedrabuena
+Corrientes
+Prof J Mariño
+Vieytes
+Av H Yrigoyen
+Beazley
+20
+Cochabamba
+Alem
+Av Libertad
+Int Lumbreras
+53
+P Marín
+Camino Gral Belgrano
+Martí
+Avellaneda
+Calle 41
+Catamarca
+R Güiraldes
+General Alvear
+SAN JOSE DE SA 5431
+1 De Mayo
+Calle 84 160 PB
+J A Frías
+M T De Alvear
+D F Sarmiento
+Ituzaingó
+Rodríguez Peña
+Panamericana km 50 Edif Concord Dpto 109
+Dr S Sallares
+Liniers
+Bv D Mirador
+180 S/N Ruta 2
+5
+D Rocha
+F Vignau
+Gral Artigas 2277
+BLANCO ENCALADA
+Los Manzanos
+Calle 28
+C Pellegrini
+Bv B Mitre
+Diagonal 74
+Calle 49
+Bynnon
+Gral Pinto
+Cnel J Bogado
+Corrientes
+Gral Victorica
+Caaguazú 1484
+Antonio Malaver 3496
+La Cautiva 7359
+Moreno 4085
+Camino Gral. San Antonio 1359
+Carlos Casares 1027
+Calle Rosales
+Colón 1138
+San Emilio 1270
+R. Venzano 2038
+Montes De Oca
+Rta Nac 9
+B LYNCH
+Ing Marconi
+S Pedro C319
+Av Sucre
+F Andrade
+Gral L Heras
+R Castiglioni
+J D De Solís
+Av Rivadavia
+Belgrano
+E Díaz
+9 De Julio
+Juncal
+M J Haedo
+Pte Quintana
+Humberto Primo
+Av San Martín
+Humberto I
+Robertson
+San Luis
+Avenida 3
+J Pizzurno
+Rivas
+Lacarra
+Carlos Calvo
+Av Victorica
+32
+9 De Julio
+Paseo 107
+España
+General Paunero
+Av V López
+122
+Sgto Cabral
+Necochea
+Moreno
+15
+Av J D Buzón
+Alberdi
+Calle 104 Bis 3021
+Montevideo
+Av G Campos
+Fitz Roy
+Alsina
+Charcas
+Caseros
+Dr Baraja
+San Luis
+D Laure
+El Rincón
+Av Sarmiento
+15
+Av Avellaneda
+Méjico
+Calle 33
+Castelli
+Lara
+Rivadavia
+B Rivadavia
+Cnel Manuel Roseti 310
+Av Mitre
+Int Becco
+14 De Julio
+Italia
+Azcuénaga
+Suiza
+39
+Cap Bermudez
+Av Maipú
+457
+Gob I Arias
+S Del Estero
+Brandsen
+Del Valle Iberlucea
+Colón
+Colectora Oeste
+41
+Merlo
+W C Morris
+E Echeverría
+Muñiz
+Ucrania
+Santa Cruz
+Av B Mitre
+Corrientes
+Constitución
+Av 2
+Av Mitre
+A SOMELLERA
+Av Meeks
+Garibaldi
+Salta
+SAN LUIS
+Rawson
+Bv Chico
+San Nicolás
+Piedras
+16
+Moriondo C424
+L N Alem
+B IBÃÑEZ
+E Soler
+Arribeños
+Paso
+Gral Rodríguez
+P I De Rivera
+Calle 2
+Uriburu 458
+R E De San Martín
+Reconquista
+T J Villegas
+L N Alem
+A Palacios
+B Rivadavia
+19 De Mayo
+Calle 44
+DE LA NACION
+Av Bdier Rosas
+Av Pte Perón
+L López
+Diagonal 74
+Cnel F Borges
+D MILLÃN
+E Ríos
+Humberto Primo
+España
+D French
+Sarmiento
+Chaco
+59
+Caseros
+A Del Valle
+Av Almafuerte
+3 De Febrero
+Garibaldi
+Whelan
+25 De Mayo
+passerini s/n
+Gdor C Casares
+Avellaneda
+D Rocha
+Calle 205 447 PB FTE
+Juan XXIII
+Av Colón
+9 De Julio
+Larroque
+C Arenal
+Belgrano
+D Rocha
+Rivadavia
+Magallanes
+Gral Pintos
+Alsina
+Las Heras
+Las Flores
+42
+Hipolito Yrigo
+M D Azcuenaga
+Paysandú
+29
+10
+J R Camaña
+Av Libertador
+P Gandulfo
+J B Justo
+Calle 30
+Entre Ríos
+Rivadavia
+Independencia
+Jose Pedroni 111
+J M Casullo
+Montes De Oca
+N Videla
+Colón
+J Ingenieros
+M Paz
+Alberdi
+Sarmiento 691
+Av B Mitre
+De L Gaviotas
+Pte J D Perón
+Av Villarino
+Ascasubi 211 PB 3
+E Adrogué
+Calle 208
+Irala
+Oliveira Cézar
+Larroque
+General J A Roca
+Gral Zapiola
+Calle 19
+Moreno
+Pasteur
