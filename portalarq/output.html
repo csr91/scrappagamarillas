@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<title>PortalDeArquitectos</title>
+<!-- <base href="/nuevaweb/"> -->
+<base href="/"/>
+<!-- <base href="/portalDeArquitectos/"> -->
+<meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0;" name="viewport"/>
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+<link href="favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="https://fonts.gstatic.com" rel="preconnect"/>
+<style type="text/css">@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2) format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2) format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2) format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2) format('woff2');unicode-range:U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2) format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}</style>
+<style type="text/css">@font-face{font-family:'Material Icons';font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/materialicons/v140/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format('woff2');}.material-icons{font-family:'Material Icons';font-weight:normal;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:'liga';-webkit-font-smoothing:antialiased;}</style>
+<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" referrerpolicy="no-referrer" rel="stylesheet"/>
+<!-- Start Scripts -->
+<script async="" src="https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.es.TMNQlWGu74E.O/m=auth/exm=page/rt=j/sv=1/d=1/ed=1/rs=AHpOoo9xdx1sQ-1KZhDqZE1rtKj2BTe_gQ/cb=gapi.loaded_1?le=scs"></script>
+<script async="" src="https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.es.TMNQlWGu74E.O/m=page/rt=j/sv=1/d=1/ed=1/rs=AHpOoo9xdx1sQ-1KZhDqZE1rtKj2BTe_gQ/cb=gapi.loaded_0?le=scs"></script>
+<script src="https://partner.googleadservices.com/gampad/cookie.js?domain=www.portaldearquitectos.com&amp;callback=_gfp_s_&amp;client=ca-pub-4655866238144278&amp;cookie=ID%3D57632df6a811cd11-227db8e336b4002d%3AT%3D1664371304%3ART%3D1664371304%3AS%3DALNI_MZbYz8MWuV7JA7cqzOGuVv7ZC2qag&amp;gpic=UID%3D00000577dfd462bb%3AT%3D1671451487%3ART%3D1671451487%3AS%3DALNI_MbSK3vqjoUJHAwIdvRj0bB4qhJymA&amp;gpid_exp=1"></script>
+<script async="" src="https://assets.pinterest.com/js/pinit_main.js?0.8304914731583593" type="text/javascript"></script>
+<!-- <script src="https://connect.facebook.net/signals/config/1399080073520497?v=2.9.90&amp;r=stable" async=""></script>
+  <script src="https://connect.facebook.net/es_LA/sdk.js?hash=112e67924df3a3ce9436db5611356800" async=""
+    crossorigin="anonymous"></script> -->
+<script async="" gapi_processed="true" src="https://apis.google.com/js/platform.js" type="text/javascript"></script>
+<script id="google_shimpl" src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202212050101/show_ads_impl_fy2021.js?bust=31071219"></script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+<!-- <script id="facebook-jssdk"
+    src="//connect.facebook.net/es_LA/sdk.js#xfbml=1&amp;version=v2.7&amp;appId=140586622674265"></script>
+  <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
+  <script>
+    !function (f, b, e, v, n, t, s) {
+      if (f.fbq)
+        return;
+      n = f.fbq = function () {
+        n.callMethod ?
+          n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq)
+        f._fbq = n;
+      n.push = n;
+      n.loaded = !0;
+      n.version = '2.0';
+      n.queue = [];
+      t = b.createElement(e);
+      t.async = !0;
+      t.src = v;
+      s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1399080073520497');
+    fbq('track', 'PageView');
+  </script> -->
+<!-- Pinterest Pixel Base Code  -->
+<script>
+    !function (e) {
+      if (!window.pintrk) {
+        window.pintrk = function () {
+
+          window.pintrk.queue.push(Array.prototype.slice.call(arguments))
+        }; var
+
+          n = window.pintrk; n.queue = [], n.version = "3.0"; var
+
+            t = document.createElement("script"); t.async = !0, t.src = e; var
+
+              r = document.getElementsByTagName("script")[0];
+
+        r.parentNode.insertBefore(t, r)
+      }
+    }, ("https://s.pinimg.com/ct/core.js");
+
+    pintrk('load', '2612750934246', { em: 'portaldearquitectos@gmail.com' });
+
+    pintrk('page');
+
+  </script>
+<!-- <noscript>
+
+    <img height="1" width="1" style="display:none;" alt=""
+      src="https://ct.pinterest.com/v3/?event=init&tid=2612750934246&pd[em]=<'portaldearquitectos@gmail.com'>&noscript=1" />
+  </noscript> -->
+<!-- End Pinterest Pixel Base Code  -->
+<!-- End Scripts -->
+<style>@charset "UTF-8";:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-body-color-rgb:33,37,41;--bs-body-bg-rgb:255,255,255;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg,#ffffff26,#fff0);--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff}*,:after,:before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}.mat-typography{font:400 14px/20px Roboto,Helvetica Neue,sans-serif;letter-spacing:normal}body,html{height:100%}body{margin:0;padding:0;box-sizing:border-box;font-family:Roboto,Helvetica Neue,sans-serif}:root{--roboto-italic:"robotolight_italic",sans-serif}</style><link href="styles.7fbc76fe2cccce8a7a13.css" media="print" onload="this.media='all'" rel="stylesheet"/><noscript><link href="styles.7fbc76fe2cccce8a7a13.css" rel="stylesheet"/></noscript></head>
+<body class="mat-typography" onload="myFunction()">
+<script>
+    function myFunction() {
+      document.body.scrollTop = document.documentElement.scrollTop = 0;
+    }
+  </script>
+<!-- For Facebook Start -->
+<!-- <script>
+    (function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id))
+        return;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7&appId=140586622674265";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script> -->
+<!-- For Facebook End -->
+<script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-11660112-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+<!-- <div class="container">
+    <br><br><br>
+    <div class="row justify-content-center align-items-center my-5"> -->
+<!-- <div class="fb-login-button" data-width="" data-size="large" data-button-type="continue_with"
+        data-layout="default" data-auto-logout-link="false" data-use-continue-as="false"></div> -->
+<!-- </div>
+  </div> -->
+<!-- Start Facebook Script -->
+<!-- <div id="fb-root"></div> -->
+<!-- <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v14.0"
+    nonce="GUqt1TJF"></script> -->
+<!-- End Facebook Script -->
+<!-- Start Google Script -->
+<script>
+    function signOut() {
+      var auth2 = gapi.auth2.getAuthInstance();
+      auth2.signOut().then(function () {
+      });
+    }
+  </script>
+<!-- End  Google Script -->
+<!-- Start Mediarich Script -->
+<!-- <script language="JavaScript" type="text/javascript">
+    var eplDoc = document, eplLL = false, eS1 = 'us.img.e-planning.net', eplArgs = { iIF: 1, sV: schemeLocal() + "://ads.e-planning.net/", vV: "4", sI: "7e00", sec: "HOME", eIs: ["RichMedia", "Lateral01", "Lateral02", "Home01", "Home02", "Home03", "Home04", "Multiled", "Lateral03", "Lateral04", "Lateral05", "Lateral06", "Lateral07", "Lateral08"] };
+    function eplCheckStart() {
+      if (document.epl) {
+        var e = document.epl;
+        if (e.eplReady()) return true;
+        e.eplInit(eplArgs);
+        if (eplArgs.custom) {
+          for (var s in eplArgs.custom) {
+            e.setCustomAdShow(s, eplArgs.custom[s]);
+          }
+        }
+        return e.eplReady();
+      } else if (!eplLL) {
+        var epl41Script = document.createElement('SCRIPT'); epl41Script.async = true;
+        epl41Script.src = schemeLocal() + '://' + eS1 + '/layers/epl-41.js';
+        document.head.appendChild(epl41Script);
+        eplLL = true;
+      }
+      return false;
+    }
+    eplCheckStart();
+    function eplSetAdM(eID, custF) {
+      if (eplCheckStart()) {
+        if (custF) { document.epl.setCustomAdShow(eID, eplArgs.custom[eID]); }
+        document.epl.showSpace(eID);
+      } else {
+        setTimeout(eplSetAdM.bind(null, eID, custF), 250);
+      }
+    }
+    function eplAD4M(eID, custF, number = "") {
+      if (!number) {
+        document.write('<div id="eplAdDiv' + eID + '"></div>');
+      } else {
+        document.write('<div id="eplAdDiv' + eID + number + '"></div>');
+      }
+
+      if (custF) {
+        if (!eplArgs.custom) { eplArgs.custom = {}; }
+        eplArgs.custom[eID] = custF;
+      }
+      eplSetAdM(eID, custF ? true : false, number);
+    }
+    function schemeLocal() {
+      protocol = document.location.protocol || window.top.location.protocol;
+      if (protocol) {
+        return protocol.indexOf('https') !== -1 ? 'https' : 'http';
+      }
+    }
+  </script>
+  <script language="JavaScript" type="text/javascript">
+    var eplDoc = document; var eplLL = false;
+    var eS1 = 'us.img.e-planning.net'; var eplArgs = { iIF: 1, sV: schemeLocal() + "://ads.e-planning.net/", vV: "4", sI: "7e00", sec: "pda_Zocalo", eIs: ["pda_Zocalo_Z02", "pda_Zocalo_Z03", "pda_Zocalo_Z01", "pda_Zocalo_Z04", "pda_Zocalo_Z05", "pda_Zocalo_Z06", "pda_Zocalo_Z07", "pda_Zocalo_Z08", "pda_Zocalo_Z09", "pda_Zocalo_Z10", "pda_MZ1", "PDA_MZ2", "PDA_MZ3"] };
+    function eplCheckStart() {
+      if (document.epl) {
+        var e = document.epl;
+        if (e.eplReady()) {
+          return true;
+        } else {
+          e.eplInit(eplArgs);
+          if (eplArgs.custom) {
+            for (var s in eplArgs.custom) {
+              document.epl.setCustomAdShow(s, eplArgs.custom[s]);
+            }
+          }
+          return e.eplReady();
+        }
+      } else {
+        if (eplLL) return false;
+        if (!document.body) return false; var eS2; var dc = document.cookie;
+        var cookieName = ('https' === schemeLocal() ? 'EPLSERVER_S' : 'EPLSERVER') + '=';
+        var ci = dc.indexOf(cookieName);
+        if (ci != -1) {
+          ci += cookieName.length; var ce = dc.indexOf(';', ci);
+          if (ce == -1) ce = dc.length;
+          eS2 = dc.substring(ci, ce);
+        }
+        var eIF = document.createElement('IFRAME');
+        eIF.src = 'about:blank'; eIF.id = 'epl4iframe'; eIF.name = 'epl4iframe';
+        eIF.width = 0; eIF.height = 0; eIF.style.width = '0px'; eIF.style.height = '0px';
+        eIF.style.display = 'none'; document.body.appendChild(eIF);
+
+        var eIFD = eIF.contentDocument ? eIF.contentDocument : eIF.document;
+        eIFD.open(); eIFD.write('<html><head><title>e-planning</title></head><bo' + 'dy></bo' + 'dy></html>'); eIFD.close();
+        var s = eIFD.createElement('SCRIPT');
+        s.src = schemeLocal() + '://' + (eS2 ? eS2 : eS1) + '/layers/epl-41.js';
+        eIFD.body.appendChild(s);
+        if (!eS2) {
+          var ss = eIFD.createElement('SCRIPT');
+          ss.src = schemeLocal() + '://ads.e-planning.net/egc/4/7c25';
+          eIFD.body.appendChild(ss);
+        }
+        eplLL = true;
+        return false;
+      }
+    }
+    eplCheckStart();
+    function eplSetAdM(eID, custF) {
+      if (eplCheckStart()) {
+        if (custF) { document.epl.setCustomAdShow(eID, eplArgs.custom[eID]); }
+        document.epl.showSpace(eID);
+      } else {
+        var efu = 'eplSetAdM("' + eID + '", ' + (custF ? 'true' : 'false') + ');';
+        setTimeout(efu, 250);
+      }
+    }
+    function eplAD4M(eID, custF) {
+      document.write('<div id="eplAdDiv' + eID + '"></div>');
+      if (custF) {
+        if (!eplArgs.custom) { eplArgs.custom = {}; }
+        eplArgs.custom[eID] = custF;
+      }
+      eplSetAdM(eID, custF ? true : false);
+    }
+    function schemeLocal() {
+      if (document.location.protocol) {
+        protocol = document.location.protocol;
+      } else {
+        protocol = window.top.location.protocol;
+      }
+      if (protocol) {
+        if (protocol.indexOf('https') !== -1) {
+          return 'https';
+        } else {
+          return 'http';
+        }
+      }
+    }
+  </script> -->
+<!-- For Banners Start -->
+<!-- For Banners End -->
+<!-- End Mediarich Script -->
+<!-- <script>
+    window.fbAsyncInit = function () {
+      FB.init({
+        appId: '440921454286060',
+        cookie: true,
+        xfbml: true,
+        version: 'v14.0'
+      });
+
+      FB.AppEvents.logPageView();
+
+    };
+
+    (function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) { return; }
+      js = d.createElement(s); js.id = id;
+      js.src = "https://connect.facebook.net/en_US/sdk.js";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script> -->
+<!-- End Mediarich Script -->
+<app-root></app-root>
+<script defer="" src="runtime.1591e070ea6f76121206.js"></script><script defer="" src="polyfills.ec99a05dbff900db8266.js"></script><script defer="" src="scripts.ecd8f4dcc581ac199cc5.js"></script><script defer="" src="main.dbf88d2b914dcbbd8179.js"></script>
+</body></html>
